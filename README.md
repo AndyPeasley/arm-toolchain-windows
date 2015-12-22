@@ -1,2 +1,2 @@
 # arm-toolchain-windows
-AVR toolchain for Windows
+ARM toolchain for Windows
